@@ -7,3 +7,4 @@ Merkle trees: https://colab.research.google.com/drive/1DfhYYL0dBYfWPLx-1yq4wpYg0
 
 ## Week 6 - How Etheruem chooses who votes
 - [ ] make cool visualization like with Cardano
+- [ ] show current randao_reveal and block proposer
